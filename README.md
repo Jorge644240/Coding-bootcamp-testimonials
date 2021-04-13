@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Code](https://github.com/Jorge644240/Coding-bootcamp-testimonials)
-- Live Site URL: [Live Site](https://jorge644204.github.io/Coding-bootcamp-testimonials)
+- Live Site URL: [Live Site](https://jorge644240.github.io/Coding-bootcamp-testimonials)
 
 ## My process
 
