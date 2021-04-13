@@ -51,5 +51,3 @@ Users should be able to:
 
 - Website - [Jorge Gallego](https://jorge644240.github.io/CV)
 - Frontend Mentor - [@Jorge644240](https://www.frontendmentor.io/profile/Jorge644240)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
