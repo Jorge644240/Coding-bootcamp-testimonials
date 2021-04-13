@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&display=swap');
+*, ::before, ::after
+{
+    box-sizing: border-box;
+}
+body
+{
+    margin: 0;
+    font-family: 'Inter';
+    color: hsl(240, 38%, 20%);
+}
+#bg, #curve, #quotes
+{
+    position: absolute;
+}
+#curve
+{
+    bottom: 0%;
+    left: 0;
+}
+#bg
+{
+    height: 90%;
+    width: auto;
+    right: 5%;
+    top: 5%;
+}
+#quotes
+{
+    top: 20%;
+    left: 15%;
+}
+.carousel div
+{
+    position: relative;
+    width: 100%;
+}
+.testimony
+{
+    font-size: 2rem;
+    font-weight: 300;
+}
+#tanya, #john
+{
+    position: relative;
+    width: 100%;
+    padding: 15% 0;
+}
+#tanya p, #john p
+{
+    position: absolute;
+    width: 48%;
+    left: 10%;
+    top: 45%;
+    z-index: 100;
+}
+#tanya p:last-of-type, #john p:last-of-type
+{
+    top: 100%;
+}
+.name
+{
+    font-weight: 700;
+}
+.job
+{
+    color: hsl(240, 18%, 77%);
+    font-weight: 500;
+}
+.carousel div img
+{
+    position: absolute;
+    right: 10%;
+    transform: translateY(-28%);
+    border-radius: 10px;
+    box-shadow: 0 1px 0.5em hsl(240, 18%, 77%);
+}
+#toggle
+{
+    height: auto;
+    width: 2%;
+    min-height: 2%;
+    padding: 2% 3%;
+    background-color: #FFFFFF;
+    position: relative;
+    margin-left: 55%;
+    margin-top: 11%;
+    box-shadow: 0 5px 0.5em hsl(240, 18%, 77%);
+    border-radius: 50px;
+}
+#prev, #next
+{
+    box-shadow: none;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+#prev
+{
+    left: 15%;
+}
+#next
+{
+    right: 15%;
+}
